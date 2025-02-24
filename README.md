@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seth, an <a href="https://www.linkedin.com/in/seth-defonso-ba3a02202/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Seth, an <a href="https://www.linkedin.com/in/seth-defonso-ba3a02202/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
